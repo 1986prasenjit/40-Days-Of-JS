@@ -14,7 +14,7 @@ To store values we can use Variables. Variables are memory buckets that can stor
 3.using Const keyword
 - const marks = 100;
 
-**One line of JS Code is equal to one instruction that we want to give to the computer. One Complete instruction is called statement and at the end of every state ment in JS we can put a semicolon[but it is optional].**
+**One line of JS Code is equal to one instruction that we want to give to the computer. One Complete instruction is called statement and at the end of every statement in JS we can put a semicolon[but it is optional].**
 
 # Naming Rules for Variable creation in JS
 
