@@ -32,6 +32,24 @@ for (let i = 0; i < language.length; i++) {
     console.log(language.charAt(i))
 }
 
+// for...of loop -
+const numbers = [10, 20, 30, 40];
+
+for (const num of numbers) {
+    console.log(num);
+}
+
+//for...in loop -
+const person = {
+    name: "John",
+    age: 25,
+    city: "New York"
+};
+
+for (const key in person) {
+    console.log(`${key}: ${person[key]}`);
+}
+
 // Nested Loop
 
 for(let i =1; i<=3; i++) {
