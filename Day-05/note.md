@@ -2,7 +2,8 @@
 A function is a method in programming that allows us to avoid repeating the same tasks multiple times. This means that in programming, we often have several lines of code that we need to repeat frequently. Instead of writing those repetitive lines again and again, we can store them inside a function. Whenever we need to execute those lines, we can simply call the function.
 This approach promotes reusability, saves time, and reduces the number of lines in our code while creating a program.
 
-**Different Types of Functions**-
+**Different Types of Functions:**
+
 1. *Function Declaration*
 A function declaration is a type of function where we use the function keyword followed by the function name, parentheses () for parameters, and curly braces {} that contain the function body.
 To call the function, we write its name followed by parentheses.
